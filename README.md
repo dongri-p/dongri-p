@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, This is DB Hong.</h1>
-<h3 align="left">With a passion for coding and a vision to be the best!</h3>
+<h1 align="left">Hello 👋, I'm DB Hong.</h1>
+<h3 align="left">With a passion for coding and a vision to be the best, I'm dedicated to crafting solutions that truly make an impact!</h3>
 
 <p align="left">
 </p>
