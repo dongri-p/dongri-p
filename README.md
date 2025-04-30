@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, This is DB Hong.</h1>
 <h3 align="left">With a passion for coding and a vision to be the best!</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
